@@ -1,0 +1,5 @@
+D:\StepIn2It\IDC\DAL\bin\Debug\DAL.dll
+D:\StepIn2It\IDC\DAL\bin\Debug\DAL.pdb
+D:\StepIn2It\IDC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\StepIn2It\IDC\DAL\obj\Debug\DAL.dll
+D:\StepIn2It\IDC\DAL\obj\Debug\DAL.pdb

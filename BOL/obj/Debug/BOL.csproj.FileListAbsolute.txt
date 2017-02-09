@@ -1,0 +1,5 @@
+D:\StepIn2It\IDC\BOL\bin\Debug\BOL.dll
+D:\StepIn2It\IDC\BOL\bin\Debug\BOL.pdb
+D:\StepIn2It\IDC\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+D:\StepIn2It\IDC\BOL\obj\Debug\BOL.dll
+D:\StepIn2It\IDC\BOL\obj\Debug\BOL.pdb
